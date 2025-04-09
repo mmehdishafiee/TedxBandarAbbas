@@ -1,0 +1,10 @@
+!DOCTYPE html
+html
+   head
+      titleMy Cool Websitetitle
+   head
+   body
+      h1Welcome to my website! ⭐️h1
+      pHow was your day 🎉p
+   body
+html
